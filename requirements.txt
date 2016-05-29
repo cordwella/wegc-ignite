@@ -4,6 +4,7 @@ hashids
 bcrypt
 flask-bcrypt
 itsdangerous (should come pre-installed with Flask)
+pyqrcode
 
 Apt-Get:
 python-mysqldb (apt-get)
